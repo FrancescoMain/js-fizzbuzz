@@ -3,7 +3,7 @@
 
 
 // inseriamo un contatore 
-const container = document.getElementById("container");
+const container = document.getElementById("div");
 
 for (let index = 1; index <= 100 ; index++) {
 
