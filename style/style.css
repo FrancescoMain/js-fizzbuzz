@@ -8,8 +8,27 @@
 
     display: flex;
     flex-wrap: wrap;
+    width: 1000px;
 }
 
+.container {
+
+    background-color: #083b4c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ 
+
+}
+
+
+.title {
+
+    font-size:90px;
+    color: aliceblue;
+    margin: 50px 0;
+
+}
 .box {
     height: 100px;
     width: 100px;
